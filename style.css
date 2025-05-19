@@ -34,6 +34,9 @@ nav ul{
     font-family: 'Roboto', sans-serif;
 }
 .container div{
+display:flex;
+align-item: centre;
+justify-content : center;
     border: 1px solid white;
     font-size: 4vw;
 }
