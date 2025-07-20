@@ -17,7 +17,8 @@ A simple and interactive *Tic Tac Toe* game built using HTML, CSS, and JavaScrip
 
 ## 🖼 Preview
 
-![Tic Tac Toe Screenshot]("C:\Users\rakes\Pictures\10TH 2024\Screenshots\Screenshot 2025-07-20 181115.png")  
+![Tic Tac Toe Screenshot]("C:\Users\rakes\Pictures\10TH 2024\Screenshots\Screenshot 2025-07-20 181115.png")
+![Tic Tac Toe Screenshot](https://github.com/AkshitaGaur-hub/Tic_Tac_Toe/raw/main/screenshot.png)
 
 
 ## 📌 How to Play
